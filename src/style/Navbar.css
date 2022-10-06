@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2? family= Rubik & display=swap');
+
+.Navbar{
+    background-color: #252525;
+    width: 100%;
+    height: 7.5vh;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    font-family:'Rubik', sans-serif;
+    font-weight: bolder;
+    font-size:larger;
+    color:white;
+}
+.Logo{
+    width: 150px;
+    margin-top: 20px;
+}
