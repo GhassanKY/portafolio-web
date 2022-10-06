@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/portafolio-web/static/css/main.65fc4aa2.css",
+    "main.js": "/portafolio-web/static/js/main.54e93a4b.js",
+    "static/media/fondoIMG.svg": "/portafolio-web/static/media/fondoIMG.cec6c75f9a52aa8be78a.svg",
+    "static/media/ImagenPerfil.svg?": "/portafolio-web/static/media/ImagenPerfil.91e29e1b3ab66b132715df88c25b81a7.svg",
+    "static/media/GhassanKY.svg": "/portafolio-web/static/media/GhassanKY.a2c87c3c0fb964356d2bff9d78efd057.svg",
+    "index.html": "/portafolio-web/index.html",
+    "main.65fc4aa2.css.map": "/portafolio-web/static/css/main.65fc4aa2.css.map",
+    "main.54e93a4b.js.map": "/portafolio-web/static/js/main.54e93a4b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65fc4aa2.css",
+    "static/js/main.54e93a4b.js"
+  ]
+}
